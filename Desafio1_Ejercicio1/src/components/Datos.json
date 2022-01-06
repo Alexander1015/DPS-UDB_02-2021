@@ -1,0 +1,54 @@
+{
+    "Accesorios" : [
+        {
+            "id": 1,
+            "accesorio": "Vestido",
+            "precio": 23.50
+        },
+        {
+            "id": 2,
+            "accesorio": "Pantalon",
+            "precio": 34.35
+        },
+        {
+            "id": 3,
+            "accesorio": "Reloj",
+            "precio": 125.99
+        },
+        {
+            "id": 4,
+            "accesorio": "Cinturon",
+            "precio": 10.15
+        },
+        {
+            "id": 5,
+            "accesorio": "Camiseta",
+            "precio": 7.89
+        },
+        {
+            "id": 6,
+            "accesorio": "Anillo",
+            "precio": 98.67
+        },
+        {
+            "id": 7,
+            "accesorio": "Lentes de Sol",
+            "precio": 5.50
+        },
+        {
+            "id": 8,
+            "accesorio": "Zapatos",
+            "precio": 78.19
+        },
+        {
+            "id": 9,
+            "accesorio": "Calzoneta",
+            "precio": 19.43
+        },
+        {
+            "id": 10,
+            "accesorio": "Pulsera",
+            "precio": 3.45
+        }
+    ]
+}

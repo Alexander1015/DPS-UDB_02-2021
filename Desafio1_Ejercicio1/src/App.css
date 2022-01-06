@@ -1,0 +1,85 @@
+.App {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.App-content {
+  background-color: #0A4152;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+}
+
+.Formulario {
+  background: white;
+  color: #0A4152;
+  padding: 1.5rem;
+  border-radius: 0.5rem;
+}
+
+.cmb {
+  width: 300px;
+  display: inline-block;
+}
+
+.combo {
+  width: 100%;
+}
+
+.btn {
+  width: 300px;
+  display: inline-block;
+  margin-left: 2rem;
+}
+
+.boton {
+  width: 100%;
+}
+
+.list {
+  margin: 1rem 0rem 5rem;
+}
+
+.listname {
+  position: absolute;
+  text-align: start;
+}
+
+.listname h4 {
+  margin: 0rem 0rem 2rem;
+}
+
+.listname h6 {
+  margin-top: -1.75rem;
+}
+
+
+.listnumber {
+  float: right;
+}
+
+.btndelete {
+  background-color: #DB1414;
+  padding: 10px;
+  color: white;
+  font-weight: bolder;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  border: solid 1px transparent;
+  border-radius: 4px;
+  margin-top: 0.5rem;
+}
+
+.btndelete:hover {
+  background-color: #791515;
+}
+
+.cantidad {
+  position: absolute;
+  margin-left: -7rem;
+  width: 100px;
+}
